@@ -1,0 +1,274 @@
+{
+  "electivePools": {
+    "HSMC_Management": [
+      { "code": "GE3751", "title": "Principles of Management", "credits": 3 },
+      { "code": "GE3752", "title": "Total Quality Management", "credits": 3 },
+      {
+        "code": "GE3753",
+        "title": "Engineering Economics and Financial Accounting",
+        "credits": 3
+      },
+      { "code": "GE3754", "title": "Human Resource Management", "credits": 3 },
+      { "code": "GE3755", "title": "Knowledge Management", "credits": 3 },
+      { "code": "GE3792", "title": "Industrial Management", "credits": 3 }
+    ],
+
+    "Mandatory_I": [
+      {
+        "code": "MX3081",
+        "title": "Introduction to Women and Gender Studies",
+        "credits": 0,
+        "exclude": true
+      },
+      {
+        "code": "MX3082",
+        "title": "Elements of Literature",
+        "credits": 0,
+        "exclude": true
+      },
+      {
+        "code": "MX3083",
+        "title": "Film Appreciation",
+        "credits": 0,
+        "exclude": true
+      },
+      {
+        "code": "MX3084",
+        "title": "Disaster Risk Reduction and Management",
+        "credits": 0,
+        "exclude": true
+      }
+    ],
+
+    "Mandatory_II": [
+      {
+        "code": "MX3085",
+        "title": "Well Being with Traditional Practices – Yoga, Ayurveda and Siddha",
+        "credits": 0,
+        "exclude": true
+      },
+      {
+        "code": "MX3086",
+        "title": "History of Science and Technology in India",
+        "credits": 0,
+        "exclude": true
+      },
+      {
+        "code": "MX3087",
+        "title": "Political and Economic Thought for a Humane Society",
+        "credits": 0,
+        "exclude": true
+      },
+      {
+        "code": "MX3088",
+        "title": "State, Nation Building and Politics in India",
+        "credits": 0,
+        "exclude": true
+      },
+      {
+        "code": "MX3089",
+        "title": "Industrial Safety",
+        "credits": 0,
+        "exclude": true
+      }
+    ],
+
+    "PEC": {
+      "Vertical_1_Data_Science": [
+        {
+          "code": "CCS346",
+          "title": "Exploratory Data Analysis",
+          "credits": 3
+        },
+        { "code": "CCS360", "title": "Recommender Systems", "credits": 3 },
+        {
+          "code": "CCS355",
+          "title": "Neural Networks and Deep Learning",
+          "credits": 3
+        },
+        { "code": "CCS369", "title": "Text and Speech Analysis", "credits": 3 },
+        { "code": "CCW331", "title": "Business Analytics", "credits": 3 },
+        {
+          "code": "CCS349",
+          "title": "Image and Video Analytics",
+          "credits": 3
+        },
+        { "code": "CCS338", "title": "Computer Vision", "credits": 3 },
+        { "code": "CCS334", "title": "Big Data Analytics", "credits": 3 }
+      ],
+
+      "Vertical_2_Full_Stack": [
+        { "code": "CCS375", "title": "Web Technologies", "credits": 3 },
+        { "code": "CCS332", "title": "App Development", "credits": 3 },
+        {
+          "code": "CCS336",
+          "title": "Cloud Services Management",
+          "credits": 3
+        },
+        { "code": "CCS370", "title": "UI and UX Design", "credits": 3 },
+        {
+          "code": "CCS366",
+          "title": "Software Testing and Automation",
+          "credits": 3
+        },
+        { "code": "CCS374", "title": "Web Application Security", "credits": 3 },
+        { "code": "CCS342", "title": "DevOps", "credits": 3 },
+        {
+          "code": "CCS358",
+          "title": "Principles of Programming Languages",
+          "credits": 3
+        }
+      ],
+
+      "Vertical_3_Cloud_DC": [
+        { "code": "CCS335", "title": "Cloud Computing", "credits": 3 },
+        { "code": "CCS372", "title": "Virtualization", "credits": 3 },
+        {
+          "code": "CCS336",
+          "title": "Cloud Services Management",
+          "credits": 3
+        },
+        { "code": "CCS341", "title": "Data Warehousing", "credits": 3 },
+        { "code": "CCS367", "title": "Storage Technologies", "credits": 3 },
+        {
+          "code": "CCS365",
+          "title": "Software Defined Networks",
+          "credits": 3
+        },
+        { "code": "CCS368", "title": "Stream Processing", "credits": 3 },
+        {
+          "code": "CCS362",
+          "title": "Security and Privacy in Cloud",
+          "credits": 3
+        }
+      ],
+
+      "Vertical_4_Cyber_Security": [
+        { "code": "CCS344", "title": "Ethical Hacking", "credits": 3 },
+        {
+          "code": "CCS343",
+          "title": "Digital and Mobile Forensics",
+          "credits": 3
+        },
+        { "code": "CCS363", "title": "Social Network Security", "credits": 3 },
+        { "code": "CCS351", "title": "Modern Cryptography", "credits": 3 },
+        {
+          "code": "CB3591",
+          "title": "Engineering Secure Software Systems",
+          "credits": 3
+        },
+        {
+          "code": "CCS339",
+          "title": "Cryptocurrency and Blockchain Technologies",
+          "credits": 3
+        },
+        { "code": "CCS354", "title": "Network Security", "credits": 3 },
+        {
+          "code": "CCS362",
+          "title": "Security and Privacy in Cloud",
+          "credits": 3
+        }
+      ],
+
+      "Vertical_5_Creative_Media": [
+        {
+          "code": "CCS333",
+          "title": "Augmented Reality/Virtual Reality",
+          "credits": 3
+        },
+        { "code": "CCS352", "title": "Multimedia and Animation", "credits": 3 },
+        {
+          "code": "CCS371",
+          "title": "Video Creation and Editing",
+          "credits": 3
+        },
+        { "code": "CCS370", "title": "UI and UX Design", "credits": 3 },
+        { "code": "CCS332", "title": "Digital Marketing", "credits": 3 },
+        { "code": "CCS373", "title": "Visual Effects", "credits": 3 },
+        { "code": "CCS347", "title": "Game Development", "credits": 3 },
+        {
+          "code": "CCS353",
+          "title": "Multimedia Data Compression and Storage",
+          "credits": 3
+        }
+      ],
+
+      "Vertical_6_Emerging_Tech": [
+        {
+          "code": "CCS333",
+          "title": "Augmented Reality/Virtual Reality",
+          "credits": 3
+        },
+        {
+          "code": "CCS361",
+          "title": "Robotic Process Automation",
+          "credits": 3
+        },
+        {
+          "code": "CCS355",
+          "title": "Neural Networks and Deep Learning",
+          "credits": 3
+        },
+        { "code": "CCS340", "title": "Cyber Security", "credits": 3 },
+        { "code": "CCS359", "title": "Quantum Computing", "credits": 3 },
+        {
+          "code": "CCS339",
+          "title": "Cryptocurrency and Blockchain Technologies",
+          "credits": 3
+        },
+        { "code": "CCS347", "title": "Game Development", "credits": 3 },
+        { "code": "CCS331", "title": "3D Printing and Design", "credits": 3 }
+      ],
+
+      "Vertical_7_AI_ML": [
+        { "code": "CCS350", "title": "Knowledge Engineering", "credits": 3 },
+        { "code": "CCS364", "title": "Soft Computing", "credits": 3 },
+        {
+          "code": "CCS355",
+          "title": "Neural Networks and Deep Learning",
+          "credits": 3
+        },
+        { "code": "CCS369", "title": "Text and Speech Analysis", "credits": 3 },
+        { "code": "CCS357", "title": "Optimization Techniques", "credits": 3 },
+        { "code": "CCS348", "title": "Game Theory", "credits": 3 },
+        { "code": "CCS337", "title": "Cognitive Science", "credits": 3 },
+        { "code": "CCS345", "title": "Ethics and AI", "credits": 3 }
+      ]
+    },
+
+    "OEC": [
+      { "code": "OAS351", "title": "Space Science", "credits": 3 },
+      {
+        "code": "OIE351",
+        "title": "Introduction to Industrial Engineering",
+        "credits": 3
+      },
+      { "code": "OBT351", "title": "Food, Nutrition and Health", "credits": 3 },
+      {
+        "code": "OCE351",
+        "title": "Environment and Social Impact Assessment",
+        "credits": 3
+      },
+      { "code": "OEE351", "title": "Renewable Energy System", "credits": 3 },
+      {
+        "code": "OEI351",
+        "title": "Introduction to Industrial Instrumentation and Control",
+        "credits": 3
+      },
+      { "code": "OMA351", "title": "Graph Theory", "credits": 3 },{
+        "code": "CB3491",
+        "title": "Cryptography and Cyber Security",
+        "credits": 3,
+        "type": "PCC"
+      },
+       {
+         "code": "NM1026",
+         "title": "NCC Credit Course Level 3",
+         "credits": 3,
+         "type": "NCC",
+         "exclude": true
+       }
+
+    ]
+  }
+}

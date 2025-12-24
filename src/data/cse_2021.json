@@ -1,0 +1,442 @@
+{
+  "department": "B.E. Computer Science and Engineering",
+  "regulation": "2021",
+  "gradingScale": {
+    "O": 10,
+    "A+": 9,
+    "A": 8,
+    "B+": 7,
+    "B": 6,
+    "C": 5,
+    "U": 0,
+    "F": 0,
+    "RA": 0,
+    "SA": 0,
+    "W": 0
+  },
+  "semesters": {
+    "1": {
+      "totalCredits": 22,
+      "courses": [
+        {
+          "code": "IP3151",
+          "title": "Induction Programme",
+          "credits": 0,
+          "type": "IND",
+          "exclude": true
+        },
+        {
+          "code": "HS3152",
+          "title": "Professional English – I",
+          "credits": 3,
+          "type": "HSMC"
+        },
+        {
+          "code": "MA3151",
+          "title": "Matrices and Calculus",
+          "credits": 4,
+          "type": "BSC"
+        },
+        {
+          "code": "PH3151",
+          "title": "Engineering Physics",
+          "credits": 3,
+          "type": "BSC"
+        },
+        {
+          "code": "CY3151",
+          "title": "Engineering Chemistry",
+          "credits": 3,
+          "type": "BSC"
+        },
+        {
+          "code": "GE3151",
+          "title": "Problem Solving and Python Programming",
+          "credits": 3,
+          "type": "ESC"
+        },
+        {
+          "code": "GE3152",
+          "title": "Heritage of Tamils",
+          "credits": 1,
+          "type": "HSMC"
+        },
+        {
+          "code": "GE3171",
+          "title": "Problem Solving and Python Programming Laboratory",
+          "credits": 2,
+          "type": "ESC"
+        },
+        {
+          "code": "BS3171",
+          "title": "Physics and Chemistry Laboratory",
+          "credits": 2,
+          "type": "BSC"
+        },
+        {
+          "code": "GE3172",
+          "title": "English Laboratory",
+          "credits": 1,
+          "type": "EEC"
+        }
+      ]
+    },
+    "2": {
+      "totalCredits": 26,
+      "courses": [
+        {
+          "code": "HS3252",
+          "title": "Professional English – II",
+          "credits": 2,
+          "type": "HSMC"
+        },
+        {
+          "code": "MA3251",
+          "title": "Statistics and Numerical Methods",
+          "credits": 4,
+          "type": "BSC"
+        },
+        {
+          "code": "PH3256",
+          "title": "Physics for Information Science",
+          "credits": 3,
+          "type": "BSC"
+        },
+        {
+          "code": "BE3251",
+          "title": "Basic Electrical and Electronics Engineering",
+          "credits": 3,
+          "type": "ESC"
+        },
+        {
+          "code": "GE3251",
+          "title": "Engineering Graphics",
+          "credits": 4,
+          "type": "ESC"
+        },
+        {
+          "code": "CS3251",
+          "title": "Programming in C",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "GE3252",
+          "title": "Tamils and Technology",
+          "credits": 1,
+          "type": "HSMC"
+        },
+        {
+          "code": "NCC-L1",
+          "title": "NCC Credit Course Level 1",
+          "credits": 2,
+          "type": "NCC",
+          "exclude": true
+        },
+        {
+          "code": "GE3271",
+          "title": "Engineering Practices Laboratory",
+          "credits": 2,
+          "type": "ESC"
+        },
+        {
+          "code": "CS3271",
+          "title": "Programming in C Laboratory",
+          "credits": 2,
+          "type": "PCC"
+        },
+        {
+          "code": "GE3272",
+          "title": "Communication Laboratory / Foreign Language",
+          "credits": 2,
+          "type": "EEC"
+        }
+      ]
+    },
+
+    "3": {
+      "totalCredits": 23,
+      "courses": [
+        {
+          "code": "MA3354",
+          "title": "Discrete Mathematics",
+          "credits": 4,
+          "type": "BSC"
+        },
+        {
+          "code": "CS3351",
+          "title": "Digital Principles and Computer Organization",
+          "credits": 4,
+          "type": "ESC"
+        },
+        {
+          "code": "CS3352",
+          "title": "Foundations of Data Science",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3301",
+          "title": "Data Structures",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3391",
+          "title": "Object Oriented Programming",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3311",
+          "title": "Data Structures Laboratory",
+          "credits": 1.5,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3381",
+          "title": "Object Oriented Programming Laboratory",
+          "credits": 1.5,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3361",
+          "title": "Data Science Laboratory",
+          "credits": 2,
+          "type": "PCC"
+        },
+        {
+          "code": "GE3361",
+          "title": "Professional Development",
+          "credits": 1,
+          "type": "EEC"
+        }
+      ]
+    },
+
+    "4": {
+      "totalCredits": 22,
+      "courses": [
+        {
+          "code": "CS3452",
+          "title": "Theory of Computation",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3491",
+          "title": "Artificial Intelligence and Machine Learning",
+          "credits": 4,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3492",
+          "title": "Database Management Systems",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3401",
+          "title": "Algorithms",
+          "credits": 4,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3451",
+          "title": "Introduction to Operating Systems",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "GE3451",
+          "title": "Environmental Sciences and Sustainability",
+          "credits": 2,
+          "type": "BSC"
+        },
+        {
+          "code": "NCC-L2",
+          "title": "NCC Credit Course Level 2",
+          "credits": 0,
+          "type": "NCC",
+          "exclude": true
+        },
+        {
+          "code": "CS3461",
+          "title": "Operating Systems Laboratory",
+          "credits": 1.5,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3481",
+          "title": "Database Management Systems Laboratory",
+          "credits": 1.5,
+          "type": "PCC"
+        }
+      ]
+    },
+
+    "5": {
+      "totalCredits": 20,
+      "courses": [
+        {
+          "code": "CS3591",
+          "title": "Computer Networks",
+          "credits": 4,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3501",
+          "title": "Compiler Design",
+          "credits": 4,
+          "type": "PCC"
+        },
+        {
+          "code": "CB3491",
+          "title": "Cryptography and Cyber Security",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3551",
+          "title": "Distributed Computing",
+          "credits": 3,
+          "type": "PCC"
+        },
+        {
+          "code": "PE-I",
+          "title": "Professional Elective – I",
+          "credits": 3,
+          "type": "PEC"
+        },
+        {
+          "code": "PE-II",
+          "title": "Professional Elective – II",
+          "credits": 3,
+          "type": "PEC"
+        },
+        {
+          "code": "MX3081",
+          "title": "Mandatory Course – I",
+          "credits": 0,
+          "type": "MC",
+          "exclude": true
+        }
+      ]
+    },
+
+    "6": {
+      "totalCredits": 23,
+      "courses": [
+        {
+          "code": "CCS356",
+          "title": "Object Oriented Software Engineering",
+          "credits": 4,
+          "type": "PCC"
+        },
+        {
+          "code": "CS3691",
+          "title": "Embedded Systems and IoT",
+          "credits": 4,
+          "type": "PCC"
+        },
+        {
+          "code": "OE-I",
+          "title": "Open Elective – I",
+          "credits": 3,
+          "type": "OEC"
+        },
+        {
+          "code": "PE-III",
+          "title": "Professional Elective – III",
+          "credits": 3,
+          "type": "PEC"
+        },
+        {
+          "code": "PE-IV",
+          "title": "Professional Elective – IV",
+          "credits": 3,
+          "type": "PEC"
+        },
+        {
+          "code": "PE-V",
+          "title": "Professional Elective – V",
+          "credits": 3,
+          "type": "PEC"
+        },
+        {
+          "code": "PE-VI",
+          "title": "Professional Elective – VI",
+          "credits": 3,
+          "type": "PEC"
+        },
+        {
+          "code": "MX3089",
+          "title": "Mandatory Course – II",
+          "credits": 0,
+          "type": "MC",
+          "exclude": true
+        },
+        {
+          "code": "NM1068",
+          "title": "NCC Credit Course Level 3",
+          "credits": 3,
+          "type": "NCC",
+          "exclude": true
+        }
+      ]
+    },
+
+    "7": {
+      "totalCredits": 16,
+      "courses": [
+        {
+          "code": "GE3791",
+          "title": "Human Values and Ethics",
+          "credits": 2,
+          "type": "HSMC"
+        },
+        {
+          "code": "HSMC-ELECTIVE",
+          "title": "Elective - Management",
+          "credits": 3,
+          "type": "HSMC"
+        },
+        {
+          "code": "OE-II",
+          "title": "Open Elective – II",
+          "credits": 3,
+          "type": "OEC"
+        },
+        {
+          "code": "OE-III",
+          "title": "Open Elective – III",
+          "credits": 3,
+          "type": "OEC"
+        },
+        {
+          "code": "OE-IV",
+          "title": "Open Elective – IV",
+          "credits": 3,
+          "type": "OEC"
+        },
+        {
+          "code": "CS3711",
+          "title": "Summer Internship / Project Work Phase I",
+          "credits": 2,
+          "type": "EEC"
+        }
+      ]
+    },
+    "8": {
+      "totalCredits": 10,
+      "courses": [
+        {
+          "code": "CS3811",
+          "title": "Project Work Phase II",
+          "credits": 10,
+          "type": "PCC"
+        }
+      ]
+    }
+  }
+}
